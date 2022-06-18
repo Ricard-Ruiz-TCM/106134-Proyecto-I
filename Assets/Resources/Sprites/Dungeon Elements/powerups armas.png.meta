@@ -1,0 +1,854 @@
+fileFormatVersion: 2
+guid: 6ed64aa343e9f284a97162bdced6e038
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7907108834194300726
+    second: powerups armas_0
+  - first:
+      213: 2245437120299757182
+    second: powerups armas_1
+  - first:
+      213: 2623447844736481949
+    second: powerups armas_2
+  - first:
+      213: -5888403699216163750
+    second: powerups armas_3
+  - first:
+      213: 2839687227965404021
+    second: powerups armas_4
+  - first:
+      213: 5240705945809175707
+    second: powerups armas_5
+  - first:
+      213: -3726878226617841109
+    second: powerups armas_6
+  - first:
+      213: 7668181918277483768
+    second: powerups armas_7
+  - first:
+      213: 1824838290079299206
+    second: powerups armas_8
+  - first:
+      213: 7129889269821304972
+    second: powerups armas_9
+  - first:
+      213: -7364397546337770892
+    second: powerups armas_10
+  - first:
+      213: 7210312713833627007
+    second: powerups armas_11
+  - first:
+      213: -4397141079312000697
+    second: powerups armas_12
+  - first:
+      213: -4891593922974456510
+    second: powerups armas_13
+  - first:
+      213: 4869395003576199577
+    second: powerups armas_14
+  - first:
+      213: -7795509110257127669
+    second: powerups armas_15
+  - first:
+      213: -8123227330932983198
+    second: powerups armas_16
+  - first:
+      213: -316365993514136475
+    second: powerups armas_17
+  - first:
+      213: 7339676765307914888
+    second: powerups armas_18
+  - first:
+      213: 5108907149790525214
+    second: powerups armas_19
+  - first:
+      213: 8021745823555230643
+    second: powerups armas_20
+  - first:
+      213: 3631357591555166380
+    second: powerups armas_21
+  - first:
+      213: -6896057888998794131
+    second: powerups armas_22
+  - first:
+      213: -616389967524550684
+    second: powerups armas_23
+  - first:
+      213: -6088401982540359571
+    second: powerups armas_24
+  - first:
+      213: -6913307659193875454
+    second: powerups armas_25
+  - first:
+      213: 7455768429522161417
+    second: powerups armas_26
+  - first:
+      213: 2492691555130676917
+    second: powerups armas_27
+  - first:
+      213: 8356858933732472872
+    second: powerups armas_28
+  - first:
+      213: -1433243533516322749
+    second: powerups armas_29
+  - first:
+      213: -303344042792826546
+    second: powerups armas_30
+  - first:
+      213: -1263675940924891656
+    second: powerups armas_31
+  - first:
+      213: -8486571114802534301
+    second: powerups armas_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: powerups armas_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 926
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ee71b86e444290800000000000000
+      internalID: -7907108834194300726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_1
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 963
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e61f00a25692f10800000000000000
+      internalID: 2245437120299757182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 927
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a38484aeb586420800000000000000
+      internalID: 2623447844736481949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 962
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cdf1e9800384ea0800000000000000
+      internalID: -5888403699216163750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 926
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57377101d78986720800000000000000
+      internalID: 2839687227965404021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 755
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94cb309a4abab840800000000000000
+      internalID: 5240705945809175707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 791
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a4e4daff7774cc0800000000000000
+      internalID: -3726878226617841109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 754
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb000b3dada6a60800000000000000
+      internalID: 7668181918277483768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 790
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68635b4a1c0235910800000000000000
+      internalID: 1824838290079299206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 755
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80719fd38472f260800000000000000
+      internalID: 7129889269821304972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 567
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47267c923776cc990800000000000000
+      internalID: -7364397546337770892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 603
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d398b163d201460800000000000000
+      internalID: 7210312713833627007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 566
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74994544c773af2c0800000000000000
+      internalID: -4397141079312000697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 602
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e5ab6e319d1cb0800000000000000
+      internalID: -4891593922974456510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_14
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 567
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999a833e4f0939340800000000000000
+      internalID: 4869395003576199577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_15
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 355
+        width: 110
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f6dcf34c9c0d390800000000000000
+      internalID: -7795509110257127669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 321
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c83991eca0c9bf0800000000000000
+      internalID: -316365993514136475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 369
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b7bd0cfb76e640800000000000000
+      internalID: 5108907149790525214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 310
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb9b735357f25f60800000000000000
+      internalID: 8021745823555230643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 162
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca050116d7c256230800000000000000
+      internalID: 3631357591555166380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 212
+        width: 76
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c52b703e74c40a0800000000000000
+      internalID: -6896057888998794131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 151
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a59e17942277f0800000000000000
+      internalID: -616389967524550684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 167
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68d5e497a6a18ba0800000000000000
+      internalID: -6088401982540359571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 23
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20403ceef4ffe00a0800000000000000
+      internalID: -6913307659193875454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 16
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f8d3162e5387760800000000000000
+      internalID: 7455768429522161417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_27
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 63
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b61e2633c1d79220800000000000000
+      internalID: 2492691555130676917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_28
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 23
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8287c277ce689f370800000000000000
+      internalID: 8356858933732472872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_29
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 30
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348422499981c1ce0800000000000000
+      internalID: -1433243533516322749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_30
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 20
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494a94433e4acbf0800000000000000
+      internalID: -303344042792826546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_31
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 68
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd6fd4d65867ee0800000000000000
+      internalID: -1263675940924891656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerups armas_32
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 20
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368aa1de884a93a80800000000000000
+      internalID: -8486571114802534301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

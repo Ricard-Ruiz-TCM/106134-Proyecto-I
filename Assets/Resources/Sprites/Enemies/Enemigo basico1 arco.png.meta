@@ -1,0 +1,1448 @@
+fileFormatVersion: 2
+guid: 39b974f3e4c5d0044a6fa830a849b69d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -808664925817662715
+    second: Enemigo basico1 arco_0
+  - first:
+      213: 1596461646285141507
+    second: Enemigo basico1 arco_1
+  - first:
+      213: 2780454336221471539
+    second: Enemigo basico1 arco_2
+  - first:
+      213: 118515356639590464
+    second: Enemigo basico1 arco_3
+  - first:
+      213: 6392007927826860913
+    second: Enemigo basico1 arco_4
+  - first:
+      213: -4360958971111427770
+    second: Enemigo basico1 arco_5
+  - first:
+      213: -6476106616728281866
+    second: Enemigo basico1 arco_6
+  - first:
+      213: -2189285265153177959
+    second: Enemigo basico1 arco_7
+  - first:
+      213: -3054011691518950955
+    second: Enemigo basico1 arco_8
+  - first:
+      213: 6475856631181951216
+    second: Enemigo basico1 arco_9
+  - first:
+      213: 6010068755253285890
+    second: Enemigo basico1 arco_10
+  - first:
+      213: -5810953478924238901
+    second: Enemigo basico1 arco_11
+  - first:
+      213: 4757703448872037495
+    second: Enemigo basico1 arco_12
+  - first:
+      213: -6822835822918716209
+    second: Enemigo basico1 arco_13
+  - first:
+      213: -7215216195680870601
+    second: Enemigo basico1 arco_14
+  - first:
+      213: 570674777342405264
+    second: Enemigo basico1 arco_15
+  - first:
+      213: -1246833188946992810
+    second: Enemigo basico1 arco_16
+  - first:
+      213: -2891984318821950789
+    second: Enemigo basico1 arco_17
+  - first:
+      213: 346157673134242683
+    second: Enemigo basico1 arco_18
+  - first:
+      213: -6882863264984465005
+    second: Enemigo basico1 arco_19
+  - first:
+      213: 5218818911724648916
+    second: Enemigo basico1 arco_20
+  - first:
+      213: -7985015001762885992
+    second: Enemigo basico1 arco_21
+  - first:
+      213: -2676669984482294447
+    second: Enemigo basico1 arco_22
+  - first:
+      213: -8601017379015825394
+    second: Enemigo basico1 arco_23
+  - first:
+      213: -7947660609932863600
+    second: Enemigo basico1 arco_24
+  - first:
+      213: -1279030408641610613
+    second: Enemigo basico1 arco_25
+  - first:
+      213: 5929977956598126823
+    second: Enemigo basico1 arco_26
+  - first:
+      213: -7016790359534480109
+    second: Enemigo basico1 arco_27
+  - first:
+      213: -4496126661592884881
+    second: Enemigo basico1 arco_28
+  - first:
+      213: -268512977408982587
+    second: Enemigo basico1 arco_29
+  - first:
+      213: -8931126165250906488
+    second: Enemigo basico1 arco_30
+  - first:
+      213: 7055708304014248541
+    second: Enemigo basico1 arco_31
+  - first:
+      213: -1718717628046711887
+    second: Enemigo basico1 arco_32
+  - first:
+      213: 7988907840986761083
+    second: Enemigo basico1 arco_33
+  - first:
+      213: 4108578873985536625
+    second: Enemigo basico1 arco_34
+  - first:
+      213: -8728600456815779263
+    second: Enemigo basico1 arco_35
+  - first:
+      213: 7572888474007923522
+    second: Enemigo basico1 arco_36
+  - first:
+      213: -2106082115418923784
+    second: Enemigo basico1 arco_37
+  - first:
+      213: 7515323438215855495
+    second: Enemigo basico1 arco_38
+  - first:
+      213: -6809434448552967221
+    second: Enemigo basico1 arco_39
+  - first:
+      213: -412770711689190222
+    second: Enemigo basico1 arco_40
+  - first:
+      213: 2058301235885752045
+    second: Enemigo basico1 arco_41
+  - first:
+      213: -1622695954602232314
+    second: Enemigo basico1 arco_42
+  - first:
+      213: -3637237006826223273
+    second: Enemigo basico1 arco_43
+  - first:
+      213: -5414970702564470865
+    second: Enemigo basico1 arco_44
+  - first:
+      213: 8676233191722012161
+    second: Enemigo basico1 arco_45
+  - first:
+      213: 4482319909804368581
+    second: Enemigo basico1 arco_46
+  - first:
+      213: 714888779268481383
+    second: Enemigo basico1 arco_47
+  - first:
+      213: -6565164217133327278
+    second: Enemigo basico1 arco_48
+  - first:
+      213: -4094661391463567420
+    second: Enemigo basico1 arco_49
+  - first:
+      213: 6736619644484815124
+    second: Enemigo basico1 arco_50
+  - first:
+      213: -4126816067849130746
+    second: Enemigo basico1 arco_51
+  - first:
+      213: 1090533004683275671
+    second: Enemigo basico1 arco_52
+  - first:
+      213: 6211358957081648443
+    second: Enemigo basico1 arco_53
+  - first:
+      213: 6187043328574737205
+    second: Enemigo basico1 arco_54
+  - first:
+      213: 1661184847705451209
+    second: Enemigo basico1 arco_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_0
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 910
+        width: 74
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031252d88b07c4f0800000000000000
+      internalID: -808664925817662715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_1
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 917
+        width: 73
+        height: 145
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3067c5ca865c72610800000000000000
+      internalID: 1596461646285141507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_2
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 907
+        width: 61
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333eca0cc78269620800000000000000
+      internalID: 2780454336221471539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 680
+        width: 81
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0487ee4c61d05a100800000000000000
+      internalID: 118515356639590464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 680
+        width: 81
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bc9931859f4b850800000000000000
+      internalID: 6392007927826860913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 680
+        width: 69
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b9decbe2ca73c0800000000000000
+      internalID: -4360958971111427770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 680
+        width: 71
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc9a5e085f3026a0800000000000000
+      internalID: -6476106616728281866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 680
+        width: 73
+        height: 164
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9964c8296a81e91e0800000000000000
+      internalID: -2189285265153177959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 680
+        width: 158
+        height: 169
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d18f132c88fd95d0800000000000000
+      internalID: -3054011691518950955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 680
+        width: 69
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f045f5ab4dded950800000000000000
+      internalID: 6475856631181951216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_10
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 680
+        width: 68
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204db80b0bd086350800000000000000
+      internalID: 6010068755253285890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_11
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 680
+        width: 67
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf766249985b5fa0800000000000000
+      internalID: -5810953478924238901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_12
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 702
+        width: 79
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2ba05412c60240800000000000000
+      internalID: 4757703448872037495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_13
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 706
+        width: 74
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4be1ec7fa6051a0800000000000000
+      internalID: -6822835822918716209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_14
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 703
+        width: 84
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fdbce09176edb90800000000000000
+      internalID: -7215216195680870601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_15
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 752
+        width: 66
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae4c9bfa17be700800000000000000
+      internalID: 570674777342405264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_16
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 755
+        width: 66
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651a5a612db52bee0800000000000000
+      internalID: -1246833188946992810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_17
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 750
+        width: 66
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba1e9c959b9dd7d0800000000000000
+      internalID: -2891984318821950789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 460
+        width: 100
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b3177d19ccdc400800000000000000
+      internalID: 346157673134242683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_19
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 460
+        width: 71
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910405d3582b70a0800000000000000
+      internalID: -6882863264984465005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 460
+        width: 67
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d930745628fc6840800000000000000
+      internalID: 5218818911724648916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 460
+        width: 63
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e02cd89278f2190800000000000000
+      internalID: -7985015001762885992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 460
+        width: 63
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558bf9a4de8adad0800000000000000
+      internalID: -2676669984482294447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_23
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 460
+        width: 68
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ecc0934c03a880800000000000000
+      internalID: -8601017379015825394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 460
+        width: 72
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975695a8cc34b190800000000000000
+      internalID: -7947660609932863600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_25
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 460
+        width: 101
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7ef3be98ff3ee0800000000000000
+      internalID: -1279030408641610613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_26
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 596
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89dec78838b4250800000000000000
+      internalID: 5929977956598126823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_27
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 598
+        width: 74
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315df84385a5f9e90800000000000000
+      internalID: -7016790359534480109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_28
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 596
+        width: 77
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69d79e6f9c8a91c0800000000000000
+      internalID: -4496126661592884881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_29
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 599
+        width: 77
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c184f3aedc064cf0800000000000000
+      internalID: -268512977408982587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_30
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 601
+        width: 74
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e50462144e0480800000000000000
+      internalID: -8931126165250906488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_31
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 599
+        width: 81
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a0b8bd159eae160800000000000000
+      internalID: 7055708304014248541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 53
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3e2176c63e528e0800000000000000
+      internalID: -1718717628046711887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 275
+        width: 56
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b774955ba5d4ede60800000000000000
+      internalID: 7988907840986761083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 275
+        width: 53
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172159bb7ba940930800000000000000
+      internalID: 4108578873985536625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_35
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 275
+        width: 69
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ee217128cdd680800000000000000
+      internalID: -8728600456815779263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 275
+        width: 65
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b64e8b1fd481960800000000000000
+      internalID: 7572888474007923522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_37
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 276
+        width: 60
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcd6aa7971b5c2e0800000000000000
+      internalID: -2106082115418923784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_38
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 273
+        width: 57
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78df50369dacb4860800000000000000
+      internalID: 7515323438215855495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 273
+        width: 58
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc341bc62770081a0800000000000000
+      internalID: -6809434448552967221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_40
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 273
+        width: 60
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4a414893b854af0800000000000000
+      internalID: -412770711689190222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 100
+        width: 85
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb7b5911e809c10800000000000000
+      internalID: 2058301235885752045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_42
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 92
+        width: 70
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606787f60a60b79e0800000000000000
+      internalID: -1622695954602232314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 107
+        width: 64
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c7349630f58dc0800000000000000
+      internalID: -3637237006826223273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_44
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 96
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4f74f5d82ad4b0800000000000000
+      internalID: -5414970702564470865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_45
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 91
+        width: 82
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e4b058e1c286870800000000000000
+      internalID: 8676233191722012161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 82
+        width: 82
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2ec89a536643e30800000000000000
+      internalID: 4482319909804368581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_47
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 87
+        width: 64
+        height: 167
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761e53e9e8bcbe900800000000000000
+      internalID: 714888779268481383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_48
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 84
+        width: 71
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c99a1ade9d3e4a0800000000000000
+      internalID: -6565164217133327278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_49
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 92
+        width: 84
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfae4ea827dc27c0800000000000000
+      internalID: -4094661391463567420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_50
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 89
+        width: 64
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198f60efd74d7d50800000000000000
+      internalID: 6736619644484815124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_51
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 94
+        width: 76
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d6a7ea6aa9ab6c0800000000000000
+      internalID: -4126816067849130746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_52
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 99
+        width: 64
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d6cf76df9522f00800000000000000
+      internalID: 1090533004683275671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_53
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 101
+        width: 65
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dda41ff0e233650800000000000000
+      internalID: 6211358957081648443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_54
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 96
+        width: 77
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bc5a1802bccd550800000000000000
+      internalID: 6187043328574737205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo basico1 arco_55
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 91
+        width: 64
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caaeb151d6bd0710800000000000000
+      internalID: 1661184847705451209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

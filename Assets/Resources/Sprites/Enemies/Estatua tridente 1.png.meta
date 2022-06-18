@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 9b8b2b837d56d7b4da13520775100c9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7879068520384731132
+    second: Estatua tridente 1_0
+  - first:
+      213: -6044449953966448424
+    second: Estatua tridente 1_1
+  - first:
+      213: -5461819117205508322
+    second: Estatua tridente 1_2
+  - first:
+      213: -1016992481268096503
+    second: Estatua tridente 1_3
+  - first:
+      213: 6231741513367682195
+    second: Estatua tridente 1_4
+  - first:
+      213: 3187355112051640564
+    second: Estatua tridente 1_5
+  - first:
+      213: 709677174529223511
+    second: Estatua tridente 1_6
+  - first:
+      213: -6608265093729922394
+    second: Estatua tridente 1_7
+  - first:
+      213: 2807900382500176397
+    second: Estatua tridente 1_8
+  - first:
+      213: -8276791149689473831
+    second: Estatua tridente 1_9
+  - first:
+      213: -6630695485086118115
+    second: Estatua tridente 1_10
+  - first:
+      213: 1589957541203824752
+    second: Estatua tridente 1_11
+  - first:
+      213: 2729798989886479868
+    second: Estatua tridente 1_12
+  - first:
+      213: 2699334090916585220
+    second: Estatua tridente 1_13
+  - first:
+      213: 7388955472044129270
+    second: Estatua tridente 1_14
+  - first:
+      213: 647841184546191030
+    second: Estatua tridente 1_15
+  - first:
+      213: -5133607009484055618
+    second: Estatua tridente 1_16
+  - first:
+      213: 2501072501018605277
+    second: Estatua tridente 1_17
+  - first:
+      213: -327995249401222211
+    second: Estatua tridente 1_18
+  - first:
+      213: 4718719914965197799
+    second: Estatua tridente 1_19
+  - first:
+      213: -6955880977553662388
+    second: Estatua tridente 1_20
+  - first:
+      213: 3217918692810423099
+    second: Estatua tridente 1_21
+  - first:
+      213: 553090809359478290
+    second: Estatua tridente 1_22
+  - first:
+      213: -4097032832067384979
+    second: Estatua tridente 1_23
+  - first:
+      213: 6633536065308212974
+    second: Estatua tridente 1_24
+  - first:
+      213: 8050801794000706365
+    second: Estatua tridente 1_25
+  - first:
+      213: -8445315157164576344
+    second: Estatua tridente 1_26
+  - first:
+      213: 2551005474812898056
+    second: Estatua tridente 1_27
+  - first:
+      213: -1888878859143129059
+    second: Estatua tridente 1_28
+  - first:
+      213: -6547275297833290826
+    second: Estatua tridente 1_29
+  - first:
+      213: -7823572475717186239
+    second: Estatua tridente 1_30
+  - first:
+      213: 7849928508012763753
+    second: Estatua tridente 1_31
+  - first:
+      213: -5143056920439210439
+    second: Estatua tridente 1_32
+  - first:
+      213: -3111654712170361374
+    second: Estatua tridente 1_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Estatua tridente 1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 832
+        width: 122
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf79e7ef213185d60800000000000000
+      internalID: 7879068520384731132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 832
+        width: 115
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0243faacccd1ca0800000000000000
+      internalID: -6044449953966448424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 87
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f278b6378b334b0800000000000000
+      internalID: -5461819117205508322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 832
+        width: 82
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a5cef9bae2e1f0800000000000000
+      internalID: -1016992481268096503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 847
+        width: 84
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cf554a3e79b7650800000000000000
+      internalID: 6231741513367682195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_5
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 847
+        width: 87
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f80dda4692cb3c20800000000000000
+      internalID: 3187355112051640564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_6
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 847
+        width: 115
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b640551a749d900800000000000000
+      internalID: 709677174529223511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_7
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 847
+        width: 122
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a25d9ac8e9ba44a0800000000000000
+      internalID: -6608265093729922394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 846
+        width: 82
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d024b9f558aa7f620800000000000000
+      internalID: 2807900382500176397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_9
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 846
+        width: 85
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d479aa3d4ee22d80800000000000000
+      internalID: -8276791149689473831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_10
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 848
+        width: 70
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fc7a556990bf3a0800000000000000
+      internalID: -6630695485086118115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_11
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 848
+        width: 64
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705863b5f9a01610800000000000000
+      internalID: 1589957541203824752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_12
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 848
+        width: 65
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd576cd7b132e520800000000000000
+      internalID: 2729798989886479868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_13
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 848
+        width: 67
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5f23dd06f57520800000000000000
+      internalID: 2699334090916585220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 579
+        width: 73
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb7e5c7ad7da8660800000000000000
+      internalID: 7388955472044129270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 579
+        width: 76
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67ebbff189df800800000000000000
+      internalID: 647841184546191030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 579
+        width: 83
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb5f37bf93c1c8b0800000000000000
+      internalID: -5133607009484055618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_17
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 579
+        width: 63
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd636bc303895b220800000000000000
+      internalID: 2501072501018605277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_18
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 579
+        width: 74
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbac67fe0ab27bf0800000000000000
+      internalID: -327995249401222211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 579
+        width: 63
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3ef0603c24c7140800000000000000
+      internalID: 4718719914965197799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 377
+        width: 103
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e5401da1fb77f90800000000000000
+      internalID: -6955880977553662388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 377
+        width: 101
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bfd09700858ac20800000000000000
+      internalID: 3217918692810423099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 378
+        width: 212
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea7642929fca700800000000000000
+      internalID: 553090809359478290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_23
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 378
+        width: 188
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c283a85a6427c0800000000000000
+      internalID: -4097032832067384979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_24
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 378
+        width: 162
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3079c7ed0f0c50800000000000000
+      internalID: 6633536065308212974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 156
+        width: 105
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5d70a3913abf60800000000000000
+      internalID: 8050801794000706365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 161
+        width: 85
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1bbf81c963cca80800000000000000
+      internalID: -8445315157164576344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 162
+        width: 162
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bac4aa6fdf66320800000000000000
+      internalID: 2551005474812898056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 160
+        width: 188
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1857017faa59c5e0800000000000000
+      internalID: -1888878859143129059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_29
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 164
+        width: 212
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3f4f93ec76325a0800000000000000
+      internalID: -6547275297833290826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_30
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 159
+        width: 200
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8a5ec8461d6390800000000000000
+      internalID: -7823572475717186239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_31
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 138
+        width: 210
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1058236c80fc60800000000000000
+      internalID: 7849928508012763753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_32
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 142
+        width: 144
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e3b9ddaf030a8b0800000000000000
+      internalID: -5143056920439210439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Estatua tridente 1_33
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 159
+        width: 136
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4a69868e21d4d0800000000000000
+      internalID: -3111654712170361374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

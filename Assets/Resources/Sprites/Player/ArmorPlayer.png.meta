@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 5600b18eb37f13b4ea744d3e3160cb64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4493992313359521574
+    second: ArmorPlayer_0
+  - first:
+      213: 4018885402450148677
+    second: ArmorPlayer_1
+  - first:
+      213: 1210387837456723855
+    second: ArmorPlayer_2
+  - first:
+      213: 5434784574788199133
+    second: ArmorPlayer_3
+  - first:
+      213: 9192476585237268095
+    second: ArmorPlayer_4
+  - first:
+      213: 721393123842576940
+    second: ArmorPlayer_5
+  - first:
+      213: 3427847171055761474
+    second: ArmorPlayer_6
+  - first:
+      213: -668130926273022882
+    second: ArmorPlayer_7
+  - first:
+      213: -981575959920180162
+    second: ArmorPlayer_8
+  - first:
+      213: 6096320474479013745
+    second: ArmorPlayer_9
+  - first:
+      213: -8223179277213542191
+    second: ArmorPlayer_10
+  - first:
+      213: -5353601461273728244
+    second: ArmorPlayer_11
+  - first:
+      213: 640634579291509809
+    second: ArmorPlayer_12
+  - first:
+      213: -537893047427597167
+    second: ArmorPlayer_13
+  - first:
+      213: 7440290509301762503
+    second: ArmorPlayer_14
+  - first:
+      213: 4849223252941155563
+    second: ArmorPlayer_15
+  - first:
+      213: -2925385747523934091
+    second: ArmorPlayer_16
+  - first:
+      213: 8072056529239628891
+    second: ArmorPlayer_17
+  - first:
+      213: -7936507034709710850
+    second: ArmorPlayer_18
+  - first:
+      213: -5193216671070907917
+    second: ArmorPlayer_19
+  - first:
+      213: 6467791006353377605
+    second: ArmorPlayer_20
+  - first:
+      213: -1774202000258657530
+    second: ArmorPlayer_21
+  - first:
+      213: 8081177136976400473
+    second: ArmorPlayer_22
+  - first:
+      213: 8610600508735087534
+    second: ArmorPlayer_23
+  - first:
+      213: -3307743471325773457
+    second: ArmorPlayer_24
+  - first:
+      213: 21440407956190899
+    second: ArmorPlayer_25
+  - first:
+      213: -4190676828843639127
+    second: ArmorPlayer_26
+  - first:
+      213: 5123155595026686093
+    second: ArmorPlayer_27
+  - first:
+      213: -5809761877926016024
+    second: ArmorPlayer_28
+  - first:
+      213: -8888734853406312140
+    second: ArmorPlayer_29
+  - first:
+      213: -8511588460043330216
+    second: ArmorPlayer_30
+  - first:
+      213: 8902259796021325603
+    second: ArmorPlayer_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ArmorPlayer_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 871
+        width: 56
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6275125e23edd5e30800000000000000
+      internalID: 4493992313359521574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 871
+        width: 55
+        height: 168
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3b060bf2f5c730800000000000000
+      internalID: 4018885402450148677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 651
+        width: 100
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8faf0443592cc010800000000000000
+      internalID: 1210387837456723855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 651
+        width: 71
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e50ba6cb3c6b40800000000000000
+      internalID: 5434784574788199133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 651
+        width: 67
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c92d10cc329f70800000000000000
+      internalID: 9192476585237268095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 651
+        width: 63
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22db0a5937e20a00800000000000000
+      internalID: 721393123842576940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 651
+        width: 63
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2483b1f27d8229f20800000000000000
+      internalID: 3427847171055761474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 651
+        width: 67
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e543b0466725ab6f0800000000000000
+      internalID: -668130926273022882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 651
+        width: 71
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3405e47dddb062f0800000000000000
+      internalID: -981575959920180162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 651
+        width: 101
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f234efb2b7a9450800000000000000
+      internalID: 6096320474479013745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 53
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d85551040661ed80800000000000000
+      internalID: -8223179277213542191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 466
+        width: 56
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b64c7e5df24b5b0800000000000000
+      internalID: -5353601461273728244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 466
+        width: 53
+        height: 155
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134908171cdf3e800800000000000000
+      internalID: 640634579291509809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 466
+        width: 69
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cfcec8f150988f0800000000000000
+      internalID: -537893047427597167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 466
+        width: 65
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c944a04cc8314760800000000000000
+      internalID: 7440290509301762503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 467
+        width: 60
+        height: 151
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec2f143bd6eb4340800000000000000
+      internalID: 4849223252941155563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 291
+        width: 85
+        height: 135
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57868d77921f667d0800000000000000
+      internalID: -2925385747523934091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 283
+        width: 70
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c533055a4b50070800000000000000
+      internalID: 8072056529239628891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 298
+        width: 65
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef72dbeb6ecdbd190800000000000000
+      internalID: -7936507034709710850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 287
+        width: 7
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f19e27d3fcfde7b0800000000000000
+      internalID: -5193216671070907917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 282
+        width: 82
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549c82707a532c950800000000000000
+      internalID: 6467791006353377605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 273
+        width: 81
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6039bce4ea4c067e0800000000000000
+      internalID: -1774202000258657530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_22
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 289
+        width: 65
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9509c784acb162070800000000000000
+      internalID: 8081177136976400473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 275
+        width: 71
+        height: 142
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e3f1ba8ffe7770800000000000000
+      internalID: 8610600508735087534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_24
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 283
+        width: 84
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61828786d88812d0800000000000000
+      internalID: -3307743471325773457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 280
+        width: 64
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6711cffeb2c4000800000000000000
+      internalID: 21440407956190899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_26
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 285
+        width: 61
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae705890a9b7d5c0800000000000000
+      internalID: -4190676828843639127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_27
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 290
+        width: 64
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80ee9abeda191740800000000000000
+      internalID: 5123155595026686093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_28
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 292
+        width: 64
+        height: 134
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb0d9c7a549f5fa0800000000000000
+      internalID: -5809761877926016024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_29
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 287
+        width: 61
+        height: 139
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4393510debed4a480800000000000000
+      internalID: -8888734853406312140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_30
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 282
+        width: 64
+        height: 144
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d9dc45463c0e980800000000000000
+      internalID: -8511588460043330216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArmorPlayer_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 278
+        width: 6
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa7184e1e2b8b70800000000000000
+      internalID: 8902259796021325603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

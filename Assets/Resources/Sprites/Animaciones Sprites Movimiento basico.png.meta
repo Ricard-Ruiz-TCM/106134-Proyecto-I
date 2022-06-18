@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: c56fc8c4708e60d4eabad7605bb26025
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1993676875219202476
+    second: Animaciones Sprites Movimiento basico_0
+  - first:
+      213: 6690388842803013424
+    second: Animaciones Sprites Movimiento basico_1
+  - first:
+      213: -3885348571020702444
+    second: Animaciones Sprites Movimiento basico_2
+  - first:
+      213: -2041039689583421498
+    second: Animaciones Sprites Movimiento basico_3
+  - first:
+      213: 1664793455910045535
+    second: Animaciones Sprites Movimiento basico_4
+  - first:
+      213: 7554944557399816661
+    second: Animaciones Sprites Movimiento basico_5
+  - first:
+      213: -1249872116833821464
+    second: Animaciones Sprites Movimiento basico_6
+  - first:
+      213: -7713398089161363512
+    second: Animaciones Sprites Movimiento basico_7
+  - first:
+      213: -160467926005469298
+    second: Animaciones Sprites Movimiento basico_8
+  - first:
+      213: -5275946044096672547
+    second: Animaciones Sprites Movimiento basico_9
+  - first:
+      213: -7529255917865767225
+    second: Animaciones Sprites Movimiento basico_10
+  - first:
+      213: 5886141223874358929
+    second: Animaciones Sprites Movimiento basico_11
+  - first:
+      213: 3299340545750301261
+    second: Animaciones Sprites Movimiento basico_12
+  - first:
+      213: -211704718549485415
+    second: Animaciones Sprites Movimiento basico_13
+  - first:
+      213: -8050954589615307451
+    second: Animaciones Sprites Movimiento basico_14
+  - first:
+      213: -732132898371993296
+    second: Animaciones Sprites Movimiento basico_15
+  - first:
+      213: -7020515748151398980
+    second: Animaciones Sprites Movimiento basico_16
+  - first:
+      213: 192742513426240078
+    second: Animaciones Sprites Movimiento basico_17
+  - first:
+      213: 443637389624972252
+    second: Animaciones Sprites Movimiento basico_18
+  - first:
+      213: 3612651242106730968
+    second: Animaciones Sprites Movimiento basico_19
+  - first:
+      213: 2557894624113370814
+    second: Animaciones Sprites Movimiento basico_20
+  - first:
+      213: 5048613942008298826
+    second: Animaciones Sprites Movimiento basico_21
+  - first:
+      213: 2716334114154253629
+    second: Animaciones Sprites Movimiento basico_22
+  - first:
+      213: -4726068973929377070
+    second: Animaciones Sprites Movimiento basico_23
+  - first:
+      213: 574601781871477549
+    second: Animaciones Sprites Movimiento basico_24
+  - first:
+      213: 2483551891199890035
+    second: Animaciones Sprites Movimiento basico_25
+  - first:
+      213: -5263978094915309593
+    second: Animaciones Sprites Movimiento basico_26
+  - first:
+      213: -2068805517442324836
+    second: Animaciones Sprites Movimiento basico_27
+  - first:
+      213: -6245394386490246415
+    second: Animaciones Sprites Movimiento basico_28
+  - first:
+      213: -1020033920937782288
+    second: Animaciones Sprites Movimiento basico_29
+  - first:
+      213: -232788855879667005
+    second: Animaciones Sprites Movimiento basico_30
+  - first:
+      213: 8779567133206774718
+    second: Animaciones Sprites Movimiento basico_31
+  - first:
+      213: -8844642630330412666
+    second: Animaciones Sprites Movimiento basico_32
+  - first:
+      213: 3663067742134816577
+    second: Animaciones Sprites Movimiento basico_33
+  - first:
+      213: 2022678748457406618
+    second: Animaciones Sprites Movimiento basico_34
+  - first:
+      213: 7246204072881968718
+    second: Animaciones Sprites Movimiento basico_35
+  - first:
+      213: 1680133031168841425
+    second: Animaciones Sprites Movimiento basico_36
+  - first:
+      213: -2830944073015078699
+    second: Animaciones Sprites Movimiento basico_37
+  - first:
+      213: 1444021451257385788
+    second: Animaciones Sprites Movimiento basico_38
+  - first:
+      213: 3038484410371497653
+    second: Animaciones Sprites Movimiento basico_39
+  - first:
+      213: 7749718678977775800
+    second: Animaciones Sprites Movimiento basico_40
+  - first:
+      213: 4847842228715048873
+    second: Animaciones Sprites Movimiento basico_41
+  - first:
+      213: 6542998263048613862
+    second: Animaciones Sprites Movimiento basico_42
+  - first:
+      213: 1988067172012342285
+    second: Animaciones Sprites Movimiento basico_43
+  - first:
+      213: -4013246667809920553
+    second: Animaciones Sprites Movimiento basico_44
+  - first:
+      213: -1985207470041180461
+    second: Animaciones Sprites Movimiento basico_45
+  - first:
+      213: -8793977923111173712
+    second: Animaciones Sprites Movimiento basico_46
+  - first:
+      213: 8566390642733872873
+    second: Animaciones Sprites Movimiento basico_47
+  - first:
+      213: -3843069535067407172
+    second: Animaciones Sprites Movimiento basico_48
+  - first:
+      213: 1480951065059361407
+    second: Animaciones Sprites Movimiento basico_49
+  - first:
+      213: 4168457631654074556
+    second: Animaciones Sprites Movimiento basico_50
+  - first:
+      213: -6778111124948167614
+    second: Animaciones Sprites Movimiento basico_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 680
+        width: 56
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1f9581e86faab10800000000000000
+      internalID: 1993676875219202476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 680
+        width: 55
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a280943909dc50800000000000000
+      internalID: 6690388842803013424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_2
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 680
+        width: 42
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d4db36f08741ac0800000000000000
+      internalID: -3885348571020702444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 680
+        width: 43
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c718e95735cca3e0800000000000000
+      internalID: -2041039689583421498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 680
+        width: 45
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57c9e3e3d88a1710800000000000000
+      internalID: 1664793455910045535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 680
+        width: 55
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d936911c0e88d860800000000000000
+      internalID: 7554944557399816661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_6
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 680
+        width: 56
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec547d8eef87aee0800000000000000
+      internalID: -1249872116833821464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 680
+        width: 45
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf2c542e4184f490800000000000000
+      internalID: -7713398089161363512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 680
+        width: 43
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fa9908547e5cdf0800000000000000
+      internalID: -160467926005469298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 680
+        width: 42
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc8d7ba60318c6b0800000000000000
+      internalID: -5275946044096672547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 460
+        width: 100
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6a9862a5b28790800000000000000
+      internalID: -7529255917865767225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 460
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e60dac146cfa150800000000000000
+      internalID: 5886141223874358929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 460
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7d76eebc99cd20800000000000000
+      internalID: 3299340545750301261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 460
+        width: 63
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998759d1eafdf0df0800000000000000
+      internalID: -211704718549485415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 460
+        width: 63
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545cd2fd473454090800000000000000
+      internalID: -8050954589615307451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 460
+        width: 67
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03109280201f6d5f0800000000000000
+      internalID: -732132898371993296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_16
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 460
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd66639f1e129e90800000000000000
+      internalID: -7020515748151398980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 460
+        width: 101
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4213e57b42cca200800000000000000
+      internalID: 192742513426240078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_18
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 458
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39da9fadd182600800000000000000
+      internalID: 443637389624972252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_19
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 458
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9352ff927b22230800000000000000
+      internalID: 3612651242106730968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_20
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 458
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a82bbb977f7320800000000000000
+      internalID: 2557894624113370814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_21
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 458
+        width: 94
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d3d7da1a7401640800000000000000
+      internalID: 5048613942008298826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_22
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 458
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d807d2c7b52b520800000000000000
+      internalID: 2716334114154253629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_23
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 458
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d1f8de41a96eb0800000000000000
+      internalID: -4726068973929377070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 53
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2381c7b64569f700800000000000000
+      internalID: 574601781871477549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 275
+        width: 56
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37218306949577220800000000000000
+      internalID: 2483551891199890035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 275
+        width: 53
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efa22bffc792f6b0800000000000000
+      internalID: -5263978094915309593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 275
+        width: 69
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966b77c7502a43e0800000000000000
+      internalID: -2068805517442324836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 275
+        width: 65
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab70f15e6e359a0800000000000000
+      internalID: -6245394386490246415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_29
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 276
+        width: 60
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f397a3ad8c18d1f0800000000000000
+      internalID: -1020033920937782288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_30
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 273
+        width: 57
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c27f99d4c7f4ccf0800000000000000
+      internalID: -232788855879667005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 273
+        width: 58
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb30c70aac947d970800000000000000
+      internalID: 8779567133206774718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_32
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 273
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68111ed7364814580800000000000000
+      internalID: -8844642630330412666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_33
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 275
+        width: 86
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f432624b4d5d230800000000000000
+      internalID: 3663067742134816577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_34
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 273
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a901988ea9ff11c10800000000000000
+      internalID: 2022678748457406618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_35
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 275
+        width: 67
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e465e165630bf8460800000000000000
+      internalID: 7246204072881968718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 100
+        width: 85
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d618321718015710800000000000000
+      internalID: 1680133031168841425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 92
+        width: 70
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d050f45d5776b8d0800000000000000
+      internalID: -2830944073015078699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_38
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 107
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339d32fbd13a0410800000000000000
+      internalID: 1444021451257385788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 96
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be51cff87dda2a20800000000000000
+      internalID: 3038484410371497653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_40
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 91
+        width: 82
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b80ea924188c8b60800000000000000
+      internalID: 7749718678977775800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_41
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 82
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc2b172def64340800000000000000
+      internalID: 4847842228715048873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_42
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 98
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa20301466dca50800000000000000
+      internalID: 6542998263048613862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_43
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 84
+        width: 71
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c39694f88079b10800000000000000
+      internalID: 1988067172012342285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_44
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 92
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d96b213b651e48c0800000000000000
+      internalID: -4013246667809920553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_45
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 89
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d65eb6f2502374e0800000000000000
+      internalID: -1985207470041180461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_46
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 94
+        width: 61
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c452eba385f580800000000000000
+      internalID: -8793977923111173712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_47
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 99
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f16327eee1e670800000000000000
+      internalID: 8566390642733872873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_48
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 101
+        width: 64
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc7e2b8e9caaaac0800000000000000
+      internalID: -3843069535067407172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_49
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 96
+        width: 61
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f728992b5256d8410800000000000000
+      internalID: 1480951065059361407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_50
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 91
+        width: 64
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8d10c612659d930800000000000000
+      internalID: 4168457631654074556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones Sprites Movimiento basico_51
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 87
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244575508df4fe1a0800000000000000
+      internalID: -6778111124948167614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

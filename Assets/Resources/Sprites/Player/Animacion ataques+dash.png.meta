@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 28635215c8b16b24e9db8c570a7ccd6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1648444932925361963
+    second: Animacion ataques+dash_0
+  - first:
+      213: 3652059596271993414
+    second: Animacion ataques+dash_1
+  - first:
+      213: 5634490186487611279
+    second: Animacion ataques+dash_2
+  - first:
+      213: -5859902695786529139
+    second: Animacion ataques+dash_3
+  - first:
+      213: -1413118422151439106
+    second: Animacion ataques+dash_4
+  - first:
+      213: 6645409705782017411
+    second: Animacion ataques+dash_5
+  - first:
+      213: 7204598623268199398
+    second: Animacion ataques+dash_6
+  - first:
+      213: 7886476197096661955
+    second: Animacion ataques+dash_7
+  - first:
+      213: 4332890270965582343
+    second: Animacion ataques+dash_8
+  - first:
+      213: -7966172045759194218
+    second: Animacion ataques+dash_9
+  - first:
+      213: -430219700283023431
+    second: Animacion ataques+dash_10
+  - first:
+      213: -7448199071432867491
+    second: Animacion ataques+dash_11
+  - first:
+      213: -5474451376928885727
+    second: Animacion ataques+dash_12
+  - first:
+      213: -1217607037733759317
+    second: Animacion ataques+dash_13
+  - first:
+      213: 7690647853990895742
+    second: Animacion ataques+dash_14
+  - first:
+      213: 5024348031682536393
+    second: Animacion ataques+dash_15
+  - first:
+      213: -2085806029529156069
+    second: Animacion ataques+dash_16
+  - first:
+      213: 2203141103558287186
+    second: Animacion ataques+dash_17
+  - first:
+      213: 7844765263342261787
+    second: Animacion ataques+dash_18
+  - first:
+      213: 5629582037395588842
+    second: Animacion ataques+dash_19
+  - first:
+      213: -956117217760966644
+    second: Animacion ataques+dash_20
+  - first:
+      213: -8187390089266317277
+    second: Animacion ataques+dash_21
+  - first:
+      213: -3649834933491228878
+    second: Animacion ataques+dash_22
+  - first:
+      213: 2166124079840928186
+    second: Animacion ataques+dash_23
+  - first:
+      213: 618961994444682604
+    second: Animacion ataques+dash_24
+  - first:
+      213: -2611077358093011855
+    second: Animacion ataques+dash_25
+  - first:
+      213: -5893351412337328577
+    second: Animacion ataques+dash_26
+  - first:
+      213: 4647341775137852
+    second: Animacion ataques+dash_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animacion ataques+dash_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 877
+        width: 85
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f0fc2cee370e610800000000000000
+      internalID: 1648444932925361963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 880
+        width: 79
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64249567ad8bea230800000000000000
+      internalID: 3652059596271993414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 881
+        width: 91
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fb408c8fab13e40800000000000000
+      internalID: 5634490186487611279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 879
+        width: 97
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3a479b817daea0800000000000000
+      internalID: -5859902695786529139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 877
+        width: 86
+        height: 161
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc5a163848936ce0800000000000000
+      internalID: -1413118422151439106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_5
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 878
+        width: 112
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38df1142bec393c50800000000000000
+      internalID: 6645409705782017411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 668
+        width: 196
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5b29b640ebf360800000000000000
+      internalID: 7204598623268199398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 665
+        width: 172
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c325812154627d60800000000000000
+      internalID: 7886476197096661955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 666
+        width: 169
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a46abaeb4812c30800000000000000
+      internalID: 4332890270965582343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_9
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 675
+        width: 196
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b50e02bb8727190800000000000000
+      internalID: -7966172045759194218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 484
+        width: 61
+        height: 158
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf5145467d870af0800000000000000
+      internalID: -430219700283023431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 482
+        width: 73
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5189d2286ea2a890800000000000000
+      internalID: -7448199071432867491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 141
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12471024a77d604b0800000000000000
+      internalID: -5474451376928885727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_13
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 484
+        width: 101
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61ddfa9d03a1fe0800000000000000
+      internalID: -1217607037733759317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_14
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 484
+        width: 177
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e706fb5f97baaba60800000000000000
+      internalID: 7690647853990895742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 480
+        width: 113
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3ee582ae11ab540800000000000000
+      internalID: 5024348031682536393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 300
+        width: 94
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16fb8b977abd03e0800000000000000
+      internalID: -2085806029529156069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 300
+        width: 106
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f57a33921239e10800000000000000
+      internalID: 2203141103558287186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 300
+        width: 65
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d6d391743edc60800000000000000
+      internalID: 7844765263342261787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 297
+        width: 65
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae642e4490b402e40800000000000000
+      internalID: 5629582037395588842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_20
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 297
+        width: 106
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0809b7c4703bb2f0800000000000000
+      internalID: -956117217760966644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_21
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 297
+        width: 94
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3283abba71c806e80800000000000000
+      internalID: -8187390089266317277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 112
+        width: 57
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f9174377e295dc0800000000000000
+      internalID: -3649834933491228878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 111
+        width: 58
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a65ebf5e9f0e10800000000000000
+      internalID: 2166124079840928186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 106
+        width: 60
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65b75097aef69800800000000000000
+      internalID: 618961994444682604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 115
+        width: 86
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174fcc51af693cbd0800000000000000
+      internalID: -2611077358093011855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_26
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 113
+        width: 90
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e36136d1c963ea0800000000000000
+      internalID: -5893351412337328577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animacion ataques+dash_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 115
+        width: 67
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c28a39bb2801000800000000000000
+      internalID: 4647341775137852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
